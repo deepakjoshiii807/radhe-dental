@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+/.env
+/storage/*.key
+/storage/logs
+/bootstrap/cache/*.php
+/public/build
