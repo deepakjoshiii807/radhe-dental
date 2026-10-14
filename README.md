@@ -3,7 +3,6 @@
 A production-ready Laravel 12 application for a modern dental clinic website and admin dashboard.
 
 ## Stack
-
 - Laravel 12
 - PHP 8.3+
 - Blade templates
